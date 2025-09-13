@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Sunrise Old Age Home",
+    "description": "Providing shelter and care for 50 residents in Kochi.",
+    "needs": ["20 beds", "4 tables", "Birthday celebration for Mr. XYZ"]
+  },
+  {
+    "id": 2,
+    "name": "Golden Years Care",
+    "description": "Home for 30 elders in Trivandrum.",
+    "needs": ["New building fund: ₹2,00,000", "10 mattresses"]
+  }
+]
